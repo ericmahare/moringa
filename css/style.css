@@ -3363,3 +3363,7 @@ label {
   width: 90%;
   height: 90%;
 }
+
+.logo-footer img {
+  width: 50%;
+}
